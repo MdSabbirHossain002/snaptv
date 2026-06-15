@@ -172,7 +172,7 @@ export default function App() {
       <header className="flex items-center gap-3 mb-8 border-b border-gray-800 pb-4">
         <Tv className="w-8 h-8 text-green-500" />
         <h1 className="text-2xl md:text-3xl font-bold bg-linear-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
-          Nexus Live TV
+          SnapTV - Stream Your World
         </h1>
       </header>
 
